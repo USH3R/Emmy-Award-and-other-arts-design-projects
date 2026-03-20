@@ -12,7 +12,7 @@ We (that includes me: Brian Dodd) proudly won an **Emmy Award** for **Outstandin
 - Team Collaboration  
 - Interactive Storytelling and Engagement  
 
-This project was developed on [HitRecord.org](https://hitrecord.org), the collaborative platform founded by **:contentReference[oaicite:0]{index=0}, which empowers artists around the world to co-create and innovate together.  
+This project was developed on [HitRecord.org](https://hitrecord.org), the collaborative platform founded, frequented, and used by **Joseph Gordon Levitt, which empowers artists such as myself around the world to co-create and innovate together.  
 
 ## ✨ Highlights
 - Multi-disciplinary creative collaboration
