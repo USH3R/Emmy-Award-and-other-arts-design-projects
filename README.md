@@ -23,6 +23,8 @@ This project was developed on [HitRecord.org](https://hitrecord.org), the collab
 ---
 Links and Videos showing our Emmy Award for **Outstanding Innovation in Interactive Programming**
 
+Create Together Episode: https://www.youtube.com/watch?v=kNFR7cM1ywE
+
 https://www.televisionacademy.com/shows/create-together-joseph-gordon-levitt
 
 https://www.facebook.com/watch/?v=391206788532585
